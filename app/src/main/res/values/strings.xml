@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RV</string>
+    <string name="market_cap_s">Market cap: %s $</string>
+    <string name="price">price: %s $</string>
+</resources>
